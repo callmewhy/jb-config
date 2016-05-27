@@ -1,7 +1,9 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Monoid" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Monoid" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="CARET_COLOR" value="528bff" />
