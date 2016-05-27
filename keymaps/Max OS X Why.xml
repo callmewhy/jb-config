@@ -1,0 +1,3 @@
+<keymap version="1" name="Max OS X Why" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+</keymap>
