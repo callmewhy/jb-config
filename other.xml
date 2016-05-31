@@ -7,6 +7,12 @@
             <id />
           </State>
           <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
             <id>RELAX NG</id>
           </State>
           <State>
