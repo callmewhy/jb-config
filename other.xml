@@ -7,16 +7,21 @@
             <id />
           </State>
           <State>
-            <id>Python</id>
-          </State>
-          <State>
             <id>RELAX NG</id>
           </State>
           <State>
             <id>XML</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
       </profile-state>
+    </entry>
+    <entry key="Project Default">
+      <profile-state />
     </entry>
   </component>
   <component name="CvsApplicationLevelConfiguration">
