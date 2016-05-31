@@ -15,7 +15,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>AngularJS</id>
+            <id>Buildout</id>
           </State>
         </selected-state>
       </profile-state>
@@ -76,12 +76,14 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/.virtualenvs/ocr/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/stooock-be/bin/python" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/.virtualenvs/ocr/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/stooock-be/bin/python" value="false" />
         <entry key="/usr/bin/python" value="true" />
         <entry key="/usr/local/bin/python" value="false" />
       </map>
@@ -89,6 +91,7 @@
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/.virtualenvs/ocr/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/stooock-be/bin/python" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
       </map>
     </option>
