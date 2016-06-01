@@ -86,7 +86,7 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="5.9.1" last-modified="1459344163000" />
+      <version-cache version="6.2.0" last-modified="1464764522000" />
     </local-interpreter>
   </component>
   <component name="PyTestFrameworkService">
