@@ -8,14 +8,6 @@
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Monoid" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </console-font>
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_CODE_TEXT">
       <value>
