@@ -1,13 +1,16 @@
 <scheme name="Darcula why" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.0" />
-  <font>
+  <option name="LINE_SPACING" value="1.0500001" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <console-font>
     <option name="EDITOR_FONT_NAME" value="Monoid" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
+  <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Monoid" />
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_CODE_TEXT">
       <value>
