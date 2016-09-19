@@ -93,6 +93,7 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="$USER_HOME$/.virtualenvs/indonesia/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/ocr/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/stooock-be/bin/python" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
@@ -100,6 +101,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="$USER_HOME$/.virtualenvs/indonesia/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/ocr/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/stooock-be/bin/python" value="false" />
         <entry key="/usr/bin/python" value="true" />
@@ -108,6 +110,7 @@
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="$USER_HOME$/.virtualenvs/indonesia/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/ocr/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/stooock-be/bin/python" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
