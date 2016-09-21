@@ -111,11 +111,10 @@
                 <option name="name" value="default" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="grepExpression" value=".*DEBUG:.*" />
                       <option name="id" value="28d7fbdc-7bcb-4b9e-bc2f-4d3c9d845295" />
                       <option name="style">
                         <GrepStyle>
@@ -135,7 +134,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*INFO.*" />
+                      <option name="grepExpression" value=".*INFO:.*" />
                       <option name="id" value="dec53ca9-d5bc-488f-b21b-2800c00b6b77" />
                       <option name="style">
                         <GrepStyle>
@@ -155,7 +154,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*WARN.*" />
+                      <option name="grepExpression" value=".*WARN:.*" />
                       <option name="id" value="07c14e42-9723-4dff-9e03-56f0542f1ed5" />
                       <option name="style">
                         <GrepStyle>
@@ -175,7 +174,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="grepExpression" value=".*ERROR:.*" />
                       <option name="id" value="589256d8-a5f0-4bc3-b4d7-9f03d4d683a8" />
                       <option name="style">
                         <GrepStyle>
@@ -195,7 +194,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*CRITICAL.*" />
+                      <option name="grepExpression" value=".*CRITICAL:.*" />
                       <option name="id" value="cd8bc1f8-6750-4af0-9b07-c0f48f916c22" />
                       <option name="style">
                         <GrepStyle>
@@ -221,6 +220,7 @@
             </list>
           </option>
           <option name="id" value="1464244514917" />
+          <option name="multiLineOutput" value="true" />
         </Profile>
       </list>
     </option>
