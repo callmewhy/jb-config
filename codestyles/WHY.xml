@@ -1,5 +1,5 @@
 <code_scheme name="WHY">
-  <option name="RIGHT_MARGIN" value="140" />
+  <option name="RIGHT_MARGIN" value="110" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="false" />
