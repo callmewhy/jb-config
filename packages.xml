@@ -64811,7 +64811,7 @@
         <entry key="pymon" value="" />
         <entry key="pymonaco" value="" />
         <entry key="pymonetdb" value="" />
-        <entry key="pymongo" value="" />
+        <entry key="pymongo" value="3.3.0" />
         <entry key="pymongo-amplidata" value="" />
         <entry key="pymongo-bongo" value="" />
         <entry key="pymongo-corset" value="" />
@@ -73643,8 +73643,8 @@
         <entry key="scrapy_model" value="" />
         <entry key="scrapyapperyio" value="" />
         <entry key="scrapybox" value="" />
-        <entry key="scrapyd" value="" />
-        <entry key="scrapyd-client" value="" />
+        <entry key="scrapyd" value="1.1.0" />
+        <entry key="scrapyd-client" value="1.0.1" />
         <entry key="scrapyd-mongodb" value="" />
         <entry key="scrapyd-subspider" value="" />
         <entry key="scrapyd_kit" value="" />
