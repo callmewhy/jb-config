@@ -223,7 +223,6 @@
                 <option name="name" value="python" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
@@ -247,7 +246,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*DEBUG:.*" />
+                      <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="d9fa9cce-6bff-4d3f-83ae-d80ddc144ff1" />
                       <option name="style">
                         <GrepStyle>
@@ -267,7 +266,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*INFO:.*" />
+                      <option name="grepExpression" value=".*INFO.*" />
                       <option name="id" value="be8a8f1d-d187-4869-9a96-ede390a4b247" />
                       <option name="style">
                         <GrepStyle>
@@ -287,7 +286,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*WARN:.*" />
+                      <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="fd77cc92-a35d-4df4-afd1-5b769276b5ff" />
                       <option name="style">
                         <GrepStyle>
@@ -307,7 +306,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*ERROR:.*" />
+                      <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="d2ebacc9-9d64-4b18-b376-8886cf8f5077" />
                       <option name="style">
                         <GrepStyle>
@@ -327,7 +326,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*CRITICAL:.*" />
+                      <option name="grepExpression" value=".*CRITICAL.*" />
                       <option name="id" value="a8e93888-d1e2-4bcc-8e22-f523e858f863" />
                       <option name="style">
                         <GrepStyle>
