@@ -1,4 +1,4 @@
-<inspections profile_name="NO" version="1.0">
+<profile version="1.0">
   <option name="myName" value="NO" />
   <inspection_tool class="AmdModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="Annotator" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -65,12 +65,12 @@
   <inspection_tool class="ES6ConvertRequireIntoImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6ModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ES6UnusedImports" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ESLintInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="EjsUnresolvedInclude" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EmptyEventHandler" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EmptyStatementBodyJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_reportEmptyBlocks" value="false" />
   </inspection_tool>
-  <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="ExceptionCaughtLocallyJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FallThroughInSwitchStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FlowJSConfig" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -253,4 +253,4 @@
   <inspection_tool class="XsltTemplateInvocation" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="XsltUnusedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XsltVariableShadowing" enabled="false" level="WARNING" enabled_by_default="false" />
-</inspections>
+</profile>
