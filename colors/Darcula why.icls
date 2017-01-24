@@ -7,6 +7,9 @@
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
+  <colors>
+    <option name="SOFT_WRAP_SIGN_COLOR" value="" />
+  </colors>
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_ABBREVIATED_TEXT">
       <value>
