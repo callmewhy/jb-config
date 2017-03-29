@@ -1,4 +1,5 @@
 <scheme name="Darcula why" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Monoid" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -7,6 +8,14 @@
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monoid" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <colors>
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
   </colors>
