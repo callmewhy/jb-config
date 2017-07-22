@@ -1,25 +1,7 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-  </component>
   <component name="CodeInsightSettings">
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="NO" />
-  <component name="DartCodeFoldingSettings">
-    <option name="collapseParts" value="false" />
-  </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseJSImports" value="false" />
-    <option name="collapseTSImports" value="false" />
-    <option name="COLLAPSE_JS_IMPORTS" value="false" />
-    <option name="COLLAPSE_TS_IMPORTS" value="false" />
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="collapseHtmlStyleAttribute" value="false" />
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
 </application>
