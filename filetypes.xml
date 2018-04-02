@@ -12,9 +12,9 @@
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping pattern="css" type="PostCSS" />
       <mapping ext="njk" type="Twig" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="css" type="PostCSS" />
     </extensionMap>
   </component>
 </application>
