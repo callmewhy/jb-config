@@ -15,6 +15,7 @@
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping pattern="css" type="PostCSS" />
       <mapping ext="njk" type="Twig" />
+      <mapping pattern="Table" type="Vue.js" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
