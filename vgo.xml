@@ -1,0 +1,9 @@
+<application>
+  <component name="vgo">
+    <proxies>
+      <list>
+        <option value="127.0.0.1:1235" />
+      </list>
+    </proxies>
+  </component>
+</application>
