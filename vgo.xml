@@ -2,6 +2,7 @@
   <component name="vgo">
     <proxies>
       <list>
+        <option value="http://127.0.0.1:1235" />
         <option value="127.0.0.1:1235" />
       </list>
     </proxies>
