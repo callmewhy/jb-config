@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="leaderboard" type="PLAIN_TEXT" />
       <mapping pattern="lobby-data" type="PLAIN_TEXT" />
+      <mapping pattern="PostComments" type="PLAIN_TEXT" />
       <mapping pattern="null" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
