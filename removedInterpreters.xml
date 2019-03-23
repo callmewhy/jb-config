@@ -1,0 +1,17 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" />
+        <option value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+        <option value="/usr/bin/python" />
+        <option value="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+        <option value="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
+        <option value="$USER_HOME$/.virtualenvs/ocr/bin/python" />
+        <option value="$USER_HOME$/.virtualenvs/py2/bin/python" />
+        <option value="D:\Anaconda\envs\paipaizhao\py27\python.exe" />
+        <option value="D:\Anaconda\envs\py27\python.exe" />
+      </set>
+    </option>
+  </component>
+</application>
