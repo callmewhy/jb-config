@@ -6114,6 +6114,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/sqlite3-1.3.13/lib" />
@@ -6121,6 +6122,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/sqlite3-1.3.13/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/sqlite3-1.3.13/lib" />
