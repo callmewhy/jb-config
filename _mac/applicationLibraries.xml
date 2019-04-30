@@ -2051,10 +2051,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/digest-sha3/1.1.0" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/gems/2.6.0/gems/digest-sha3-1.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/gems/2.6.0/gems/digest-sha3-1.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/digest-sha3/1.1.0" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/gems/2.6.0/gems/digest-sha3-1.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/gems/2.6.0/gems/digest-sha3-1.1.0/lib" />
       </SOURCES>
@@ -5150,6 +5152,17 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/rexml/validation" />
       </excluded>
     </library>
+    <library name="rlp (v0.7.3, RVM: ruby-2.6.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/rlp-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/rlp-0.7.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rouge (v2.0.7, RVM: ruby-2.6.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6248,6 +6261,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/web-console-3.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="web3-eth (v0.2.24, RVM: ruby-2.6.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/web3-eth-0.2.24/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/web3-eth-0.2.24/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/web3-eth-0.2.24/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/web3-eth-0.2.24/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/web3-eth-0.2.24/bin" />
+      </excluded>
     </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.6.0) [gem]" type="rubylib">
       <properties>
