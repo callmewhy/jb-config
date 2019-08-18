@@ -2,7 +2,6 @@
   <option name="RIGHT_MARGIN" value="1000" />
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script,style" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
@@ -54,5 +53,9 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
   </codeStyleSettings>
 </code_scheme>
