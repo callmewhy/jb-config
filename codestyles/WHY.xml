@@ -1,4 +1,9 @@
 <code_scheme name="WHY" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="SMART_TABS" value="true" />
+    </value>
+  </option>
   <option name="RIGHT_MARGIN" value="1000" />
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
@@ -56,6 +61,5 @@
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="SPACE_WITHIN_BRACES" value="true" />
-    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
   </codeStyleSettings>
 </code_scheme>
