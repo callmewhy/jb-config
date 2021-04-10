@@ -1976,6 +1976,60 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/globalid-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="google-authenticator-rails (v2.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="google-authenticator-rails (v2.0.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="google-qr (v0.2.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-qr-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-qr-0.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="google-qr (v0.2.2, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-qr-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-qr-0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="http-accept (v1.7.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2656,6 +2710,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mimemagic-0.3.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mimemagic-0.3.3/script" />
+      </excluded>
+    </library>
+    <library name="mimemagic (v0.3.5@01f92d, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/mimemagic-01f92d86d15d/script" />
       </excluded>
     </library>
     <library name="mimemagic (v0.3.5@01f92d, RVM: ruby-2.6.3) [gem]" type="rubylib">
@@ -4192,6 +4268,50 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0/rexml/parsers" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0/rexml/formatters" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0/rexml/validation" />
+      </excluded>
+    </library>
+    <library name="rotp (v3.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/spec" />
+      </excluded>
+    </library>
+    <library name="rotp (v3.3.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rotp-3.3.0/spec" />
       </excluded>
     </library>
     <library name="rss (v0.2.7, ruby-2.6.3-p62) [gem]" type="rubylib">
