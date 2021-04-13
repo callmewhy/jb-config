@@ -11,6 +11,13 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.*" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
