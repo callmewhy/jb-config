@@ -2164,6 +2164,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-authenticator-rails-2.0.0/spec" />
       </excluded>
     </library>
+    <library name="google-qr (v0.2.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-qr-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/google-qr-0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="google-qr (v0.2.2, RVM: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
