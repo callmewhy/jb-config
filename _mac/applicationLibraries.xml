@@ -9276,6 +9276,19 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="tailwindcss-rails (v0.3.3, RVM: ruby-3.0.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/tailwindcss-rails-0.3.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/tailwindcss-rails-0.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/tailwindcss-rails-0.3.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/tailwindcss-rails-0.3.3/lib" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.2.9, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
