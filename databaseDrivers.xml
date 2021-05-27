@@ -1,97 +1,9 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="cassandra">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="clickhouse">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="couchbase_query">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="db2.11">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="db2">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="db2.jtopen">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="derby.embedded">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="derby.remote">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="exasol">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="greenplum">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="send-app-info" value="false" />
-    </driver>
-    <driver id="h2.unified">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hive">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.local">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.remote">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mariadb">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mongo">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="sqlserver.ms">
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
-    </driver>
-    <driver id="sqlserver.jtds">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="azure.ms">
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
-    </driver>
     <driver id="mysql.8">
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mysql">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mysql_aurora">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="oracle.19">
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="false" />
-    </driver>
-    <driver id="oracle">
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="false" />
-    </driver>
-    <driver id="postgresql">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-    </driver>
-    <driver id="redshift">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-    </driver>
-    <driver id="snowflake">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlite.xerial">
-      <option name="auto-sync" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.31.1/sqlite-jdbc-3.31.1.jar</url>
       </library>
@@ -99,26 +11,25 @@
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.31.1/license.txt</url>
       </library>
     </driver>
-    <driver id="sybase.jtds">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="sybase.ase">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="vertica">
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="78fef3cb-5ae7-4deb-b041-f8ea3de27550" name="development driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
       <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />
       <url-template name="In-memory" template="jdbc:sqlite::memory:" />
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" />
-      <option name="auto-sync" value="true" />
       <property name="enable_load_extension" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/sqlite-jdbc-3.25.1.jar</url>
       </library>
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/license.txt</url>
+      </library>
+    </driver>
+    <driver id="1fe85e0b-e3df-44be-8d63-6df74f2742bb" name="development driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />
+      <url-template name="In-memory" template="jdbc:sqlite::memory:" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" />
+      <property name="enable_load_extension" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.34.0/sqlite-jdbc-3.34.0.jar</url>
       </library>
     </driver>
   </component>
