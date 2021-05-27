@@ -2322,6 +2322,44 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-3.0.1/lib/ruby/3.0.0/csv/core_ext" />
       </excluded>
     </library>
+    <library name="debase (v0.2.4.1, RVM: ruby-3.0.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.4.1/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.2.5.beta2, RVM: ruby-3.0.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.5.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.5.beta2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.5.beta2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.5.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.5.beta2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.5.beta2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.5.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/debase-0.2.5.beta2/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.3.0.beta30, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7491,6 +7529,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-3.0.1/lib/ruby/gems/3.0.0/gems/rss-0.2.9/test" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.1.beta3, RVM: ruby-3.0.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/ruby-debug-ide-0.7.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/ruby-debug-ide-0.7.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/ruby-debug-ide-0.7.1.beta3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/ruby-debug-ide-0.7.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/ruby-debug-ide-0.7.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/ruby-debug-ide-0.7.1.beta3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/ruby-debug-ide-0.7.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/ruby-debug-ide-0.7.1.beta3/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.8.0.beta23, ruby-2.6.3-p62) [gem]" type="rubylib">
