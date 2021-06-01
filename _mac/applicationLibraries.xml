@@ -1576,6 +1576,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/axlsx_rails-0.6.1/spec" />
       </excluded>
     </library>
+    <library name="axlsx_rails (v0.6.1, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axlsx_rails-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axlsx_rails-0.6.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axlsx_rails-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axlsx_rails-0.6.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axlsx_rails-0.6.1/spec" />
+      </excluded>
+    </library>
     <library name="axlsx_rails (v0.6.1, RVM: ruby-3.0.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2436,6 +2452,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/capybara-3.29.0/spec" />
+      </excluded>
+    </library>
+    <library name="caxlsx (v3.0.4, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/caxlsx-3.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/caxlsx-3.0.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/caxlsx-3.0.4/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/caxlsx-3.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/caxlsx-3.0.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/caxlsx-3.0.4/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/caxlsx-3.0.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/caxlsx-3.0.4/examples" />
       </excluded>
     </library>
     <library name="caxlsx (v3.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -4234,6 +4269,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/htmlentities-4.3.4/perf" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/htmlentities-4.3.4/test" />
+      </excluded>
+    </library>
+    <library name="htmlentities (v4.3.4, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/htmlentities-4.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/htmlentities-4.3.4/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/htmlentities-4.3.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/htmlentities-4.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/htmlentities-4.3.4/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/htmlentities-4.3.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/htmlentities-4.3.4/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/htmlentities-4.3.4/test" />
       </excluded>
     </library>
     <library name="htmlentities (v4.3.4, RVM: ruby-3.0.1) [gem]" type="rubylib">
@@ -8894,6 +8948,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/rubyzip-2.3.0/samples" />
+      </excluded>
+    </library>
+    <library name="rubyzip (v2.3.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubyzip-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubyzip-2.3.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubyzip-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubyzip-2.3.0/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubyzip-2.3.0/samples" />
       </excluded>
     </library>
     <library name="rubyzip (v2.3.0, RVM: ruby-3.0.1) [gem]" type="rubylib">
