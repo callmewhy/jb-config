@@ -1621,6 +1621,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/autoprefixer-rails-9.7.2/.github" />
       </excluded>
     </library>
+    <library name="axiom-types (v0.1.1, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axiom-types-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axiom-types-0.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axiom-types-0.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axiom-types-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axiom-types-0.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axiom-types-0.1.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axiom-types-0.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/axiom-types-0.1.1/config" />
+      </excluded>
+    </library>
     <library name="axlsx (v2.1.0.pre@c8ac84, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2767,6 +2786,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/chronic-0.10.2/test" />
       </excluded>
     </library>
+    <library name="coercible (v1.0.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/coercible-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/coercible-1.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/coercible-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/coercible-1.0.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/coercible-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/coercible-1.0.0/config" />
+      </excluded>
+    </library>
     <library name="concurrent-ruby (v1.1.5, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3311,6 +3349,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/debug_inspector-0.0.3/test" />
       </excluded>
     </library>
+    <library name="descendants_tracker (v0.0.4, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/descendants_tracker-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/descendants_tracker-0.0.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/descendants_tracker-0.0.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/descendants_tracker-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/descendants_tracker-0.0.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/descendants_tracker-0.0.4/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/descendants_tracker-0.0.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/descendants_tracker-0.0.4/config" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3524,6 +3581,17 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="dry-inflector (v0.2.1, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-inflector-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-inflector-0.2.1/lib" />
+      </SOURCES>
     </library>
     <library name="e2mmap (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -4728,6 +4796,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/i18n-1.8.10/lib" />
       </SOURCES>
+    </library>
+    <library name="ice_nine (v0.11.2, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ice_nine-0.11.2/benchmarks" />
+      </excluded>
     </library>
     <library name="image_processing (v1.12.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -10700,6 +10790,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-3.0.1/gems/tailwindcss-rails-0.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="telegram-bot-ruby (v0.16.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/telegram-bot-ruby-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/telegram-bot-ruby-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/telegram-bot-ruby-0.16.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/telegram-bot-ruby-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/telegram-bot-ruby-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/telegram-bot-ruby-0.16.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/telegram-bot-ruby-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/telegram-bot-ruby-0.16.0/examples" />
+      </excluded>
+    </library>
     <library name="test-unit (v3.2.9, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11520,6 +11629,22 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="virtus (v2.0.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/virtus-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/virtus-2.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/virtus-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/virtus-2.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/virtus-2.0.0/spec" />
+      </excluded>
     </library>
     <library name="web-console (v3.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
