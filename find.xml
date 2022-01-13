@@ -5,6 +5,18 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.tsx</mask>
     <mask>*.vue</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
     <mask>*.ru</mask>
     <mask>*.thor</mask>
     <mask>*.jbuilder</mask>
@@ -12,17 +24,5 @@
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
     <mask>*.rb</mask>
-    <mask>*.xml</mask>
-    <mask>*.css</mask>
-    <mask>*.shtml</mask>
-    <mask>*.shtm</mask>
-    <mask>*.ng</mask>
-    <mask>*.htm</mask>
-    <mask>*.sht</mask>
-    <mask>*.html</mask>
-    <mask>*.ats</mask>
-    <mask>*.ts</mask>
-    <mask>*.cjs</mask>
-    <mask>*.js</mask>
   </component>
 </application>
