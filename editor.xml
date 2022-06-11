@@ -12,10 +12,13 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.*" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>
+        <option value="JavaScript.js.type.hints" />
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
